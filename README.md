@@ -1,10 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
-I made few simple and quiet interesting games using mainly JavaScript like: [dratewka](https://github.com/Mrozu888/dratewka) or [missile command](https://github.com/Mrozu888/missile_command)
+🔭 I made few simple and quiet interesting games using mainly JavaScript like: [dratewka](https://github.com/Mrozu888/dratewka) or [missile command](https://github.com/Mrozu888/missile_command)
 
-🌱 I’m currently learning IT tools here to improve group working skills.
+### 🌱 AGH Student
+Currently learning IT tools here to improve group working skills by making game in Python
 
-🔭 I’m currently working on our group project named Pacrats game.
 <!--
 **Mrozu888/Mrozu888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
