@@ -5,8 +5,9 @@
 ### 🌱 IT Student
 Currently learning mainly math subject but sometimes working on interesting projects.
 
-### 😄 Visit my [WebPage](https://mrozu888.github.io/)
 <!--
+### 😄 Visit my [WebPage](https://mrozu888.github.io/)
+
 **Mrozu888/Mrozu888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
