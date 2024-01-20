@@ -2,8 +2,8 @@
 
 🔭 I made few simple and quiet interesting games using mainly JavaScript like: [dratewka](https://github.com/Mrozu888/dratewka) or [missile command](https://github.com/Mrozu888/missile_command)
 
-### 🌱 AGH Student
-Currently learning IT tools here to improve group working skills by making game in Python
+### 🌱 IT Student
+Currently learning mainly math subject but sometimes working on interesting projects.
 
 ### 😄 Visit my [WebPage](https://mrozu888.github.io/)
 <!--
